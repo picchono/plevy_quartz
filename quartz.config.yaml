@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Mulish
-      body: Mulish
+      header: IBM Plex Mono
+      body: IBM Plex Mono
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -182,7 +182,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -275,6 +275,7 @@ layout:
         beforeBody: []
         left: []
         right: []
+      template: minimal
     content: {}
     folder:
       exclude:
