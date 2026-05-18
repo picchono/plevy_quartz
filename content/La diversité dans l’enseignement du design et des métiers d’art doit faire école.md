@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /La diversité dans l’enseignement du design et des métiers d’art doit faire école.md
 created: 2023-05-01
 modified: 2026-05-17T22:21:32.462+02:00
 tags:
