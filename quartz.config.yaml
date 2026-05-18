@@ -217,14 +217,11 @@ plugins:
         repo: picchono/plevy_quartz
         repoId: R_kgDOSgPYzA
         category: Announcements
-        categoryId: DIC_kwDOFxRnmM4B-Xg6
+        categoryId: DIC_kwDOSgPYzM4C9Vem
         lang: en
-    layout:
-      position: afterBody
-      priority: 10
-    layout:
-      position: afterBody
-      priority: 10
+      layout:
+        position: afterBody
+        priority: 10
   - source: github:quartz-community/footer
     enabled: true
     options:
@@ -296,4 +293,4 @@ layout:
       positions:
         right: []
     canvas: {}
-    bases: {}  
+    bases: {}
