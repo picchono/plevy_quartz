@@ -2,7 +2,7 @@
 publish: true
 permalink: /Writings • Écrits/La diversité dans l’enseignement du design et des métiers d’art doit faire école.md
 title: La diversite dans l enseignement du design et des metiers d art doit faire ecole
-created: 2023-05-01T21:34:34.153+02:00
+created: 2023-05-01
 modified: 2026-05-18T21:34:34.153+02:00
 tags:
   - Type/writing
