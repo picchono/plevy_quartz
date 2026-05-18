@@ -289,3 +289,17 @@ layout:
         right: []
     canvas: {}
     bases: {}
+plugins:
+  - source: 
+    enabled: true
+    options:
+      provider: giscus
+      options:
+        repo: picchono/plevy_quartz
+        repoId: R_kgDOSgPYzA
+        category: Announcements
+        categoryId: DIC_kwDOFxRnmM4B-Xg6
+        lang: en
+    layout:
+      position: afterBody
+      priority: 10
