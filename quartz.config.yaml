@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitleSuffix: "| plevy.fr"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: plevy.fr
   ignorePatterns:
     - private
@@ -16,12 +16,12 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Mulish
+      body: Mulish
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
+        light: "#e5e5e5"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
@@ -253,13 +253,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
 layout:
   groups:
     toolbar:
