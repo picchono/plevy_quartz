@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: IBM Plex Mono
-      body: IBM Plex Mono
+      header: Mulish
+      body: Mulish
       code: IBM Plex Mono
     colors:
       lightMode:
