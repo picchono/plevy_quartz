@@ -169,7 +169,7 @@ plugins:
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
-      position: right
+      position: left
       priority: 30
   - source: github:quartz-community/article-title
     enabled: true
