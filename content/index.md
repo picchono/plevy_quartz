@@ -1,8 +1,9 @@
 ---
 publish: true
 permalink: /index.md
+title: Welcome
 created: 2026-05-18T21:48:27.034+02:00
-modified: 2026-05-19T07:35:20.310+02:00
+modified: 2026-05-19T08:35:59.341+02:00
 ---
 
 [Pierre Lévy](https://plevy.fr/pierre-levy/) est professeur du [Conservatoire national des Arts et Métiers](https://www.cnam.fr/), titulaire de la [Chaire design Jean Prouvé](https://www.chaire-design.fr/), et membre du laboratoire [Dicen (EA 7339)](https://www.dicen-idf.org/).
