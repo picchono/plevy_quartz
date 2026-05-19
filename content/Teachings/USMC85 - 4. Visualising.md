@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Teachings/USMC85 - 4. Visualising.md
-title: 7 Key Theories of Design
+title: USMC85 - 4. Visualising
 created: 2026-05-12T07:41:45.819+02:00
-modified: 2026-05-19T08:40:17.973+02:00
+modified: 2026-05-19T09:50:45.698+02:00
 tags:
   - Category/USMC85
   - Type/lecture
