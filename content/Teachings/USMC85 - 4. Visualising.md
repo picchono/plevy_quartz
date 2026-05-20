@@ -3,24 +3,20 @@ publish: true
 permalink: /Teachings/USMC85 - 4. Visualising.md
 title: USMC85 - 4. Visualising
 created: 2026-05-12T07:41:45.819+02:00
-modified: 2026-05-19T09:50:45.698+02:00
+modified: 2026-05-20T20:48:33.476+02:00
 tags:
   - Category/USMC85
   - Type/lecture
 ---
 
-## USMC85 - 4. Visualising
-
-### Visualising
-
-#### Introduction
+## Introduction
 
 **Visualisation** is any technique for creating images, diagrams, or animations to communicate a message. Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity (wikipedia).
 
 - **Cartography**: The Ptolemy world map, reconstituted from Ptolemy's Geographia (circa 150) (source: wikipedia)
   ![The Ptolemy world map, reconstituted from Ptolemy's Geographia (circa 150). (source: wikipedia)](https://upload.wikimedia.org/wikipedia/commons/2/23/PtolemyWorldMap.jpg)
-- **History**: Charles Minard's information graphic of Napoleon's march (source: wikipedia)
-  ![Charles Minard's information graphic of Napoleon's march (source: wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Minard%27s_Map_%28vectorized%29.svg/1600px-Minard%27s_Map_%28vectorized%29.svg.png)
+- **History**: Charles Minard's information graphic of Napoleon's march (source: Wikipedia)
+  ![Charles Minard's information graphic of Napoleon's march (source: wikipedia)|582](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 - **Socio-economy**: Petroleum flow:
   ![Petroleum in ou daily lives (source: https://datavizproject.com)](https://datavizproject.com/wp-content/uploads/examples/oil-flow-daily-lives.jpg)
 - **Physical dataviz**: Keyboard Frequency Sculpture (source: [https://dataphys.org](https://dataphys.org/))
@@ -29,18 +25,18 @@ tags:
   ![Cortex Man - Sensory Model) (source: https://www.threeding.com)](https://cdn.threeding.com/pi/kNiN/4Ybv8FqtCH2xXSegVYkNiN-6A8B.webp)
   ![Cortex Man - Motor Model (source: https://www.threeding.com)](https://cdn.threeding.com/pi/xFTx/4Ybv8G8M6YnGvPw5XAxFTx-14JAP.webp)
 
-#### ~={red}EXERCISE - Drawing a map=~
+## EXERCISE - Drawing a map
 
 Draw the map of the ground floor of Cnam Conté (10min).
 Compare to the actual map (provided in class)
 
-#### Considerations
+## Considerations
 
 - Know your audience and the aim of your communication - This will impact every aspect of the visualisation
 - Tell a story
 - Keep your visualisations simple and digestible
 
-#### Structural elements
+## Structural elements
 
 Visualisation focuses on purpose, clarity, inviting and effective communication of data. Key principles include:
 
@@ -53,7 +49,7 @@ Visualisation focuses on purpose, clarity, inviting and effective communication 
 - Apply colour intentionally and strategically. Use colour to highlight key information and create contrast for readability. Stick to a simple colour palette and use intuitive associations. Avoid using too many colours or shades that blend data.
 - Keep the quality of the visual (resolution for pixels vs vectorialisation) for the type of presentation (print vs screen).
 
-#### Tools
+## Tools
 
 There are many tools to do illustration:
 
@@ -64,14 +60,18 @@ There are many tools to do illustration:
 Visualisations can be supported by visual repositories:
 
 - **Photos:** [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/)...
+
 - **Illustrations:** [Storyset](https://storyset.com/) / [Smashicons](https://smashicons.com/) / [Iconscout](https://iconscout.com/)...
+
 - **Icons:** [Flaticon](https://www.flaticon.com/) / [Google icons](https://fonts.google.com/icons) / [Icones8](https://icones8.fr/icons)...
+
 - **Fonts:** [Google Fonts](https://fonts.google.com/) / [Fontshare](https://www.fontshare.com/fonts/satoshi) / [Bunny fonts](https://fonts.bunny.net/)...
+
 - **Color pannel**: [Colorhunt](https://colorhunt.co/) / [Colormind](http://colormind.io/)
 
-  - [Example of infographics URL](https://1drv.ms/f/c/50aeab3cfffe3174/EnQx_v88q64ggFCnJSwAAAABBTIDv0hZdI9_pdrZQosGCw?e=X8es8a)
+- [Example of infographics URL](https://1drv.ms/f/c/50aeab3cfffe3174/EnQx_v88q64ggFCnJSwAAAABBTIDv0hZdI9_pdrZQosGCw?e=X8es8a)
 
-#### ~={red} Visualising assignment=~
+## Visualising assignment
 
 Create a visual on your own on the topic selected for the writing assignment. The audience are laypersons.
 Ask a AI the produce a similar visual.
