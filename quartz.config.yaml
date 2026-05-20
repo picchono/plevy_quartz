@@ -268,12 +268,9 @@ layout:
       gap: 0.5rem
   byPageType:
     "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
       template: full-width
-    content: {}
+    content:
+      template: minimal
     folder:
       exclude:
         - reader-mode
@@ -284,5 +281,7 @@ layout:
         - reader-mode
       positions:
         right: []
-    canvas: {}
-    bases: {}
+    canvas:
+      template: full-width
+    bases:
+      template: full-width
