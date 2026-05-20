@@ -229,9 +229,7 @@ plugins:
   - source: github:quartz-community/footer
     enabled: false
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: '{"GitHub":"https://github.com/picchono"}'
   - source: github:quartz-community/recent-notes
     enabled: false
     options: {}
