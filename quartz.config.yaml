@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Pierre Lévy
-  pageTitleSuffix: "| plevy.fr"
+  pageTitleSuffix: " | plevy.fr"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -24,7 +24,7 @@ configuration:
         light: "#fafafa"
         lightgray: "#fafafa"
         gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
+        darkgray: "#1c1c1c"
         dark: "#2b2b2b"
         secondary: "#e34334"
         tertiary: "#84a59d"
