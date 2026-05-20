@@ -206,9 +206,10 @@ plugins:
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 5
       condition: not-index
+      display: all
   - source: github:quartz-community/comments
     enabled: true
     options:
