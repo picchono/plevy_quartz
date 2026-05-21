@@ -262,6 +262,15 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source:
+      name: quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugin
+    enabled: true
+    options:
+      theme: tokyo-night
+      mode: both
+      calloutStyle: glass
 layout:
   groups:
     toolbar:
