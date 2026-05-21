@@ -264,13 +264,13 @@ plugins:
       display: all
   - source:
       name: quartz-themes
-      repo: github:saberzero1/quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
       subdir: plugin
     enabled: true
-    order: 50
     options:
       theme: tokyo-night
       mode: both
+      calloutStyle: glass
   - source: github:quartz-community/obsidian-plugin-leaflet
     enabled: true
     order: 50
