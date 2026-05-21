@@ -270,7 +270,6 @@ plugins:
     options:
       theme: tokyo-night
       mode: both
-      calloutStyle: glass
 layout:
   groups:
     toolbar:
