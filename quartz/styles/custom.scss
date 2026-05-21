@@ -1,11 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-div.center {
-    padding: 0 2rem;
-}
 
 footer {
-    padding: 0 2rem;
     font-size: 0.7rem;
+}
+
+@media (min-width: 768px) {
+    div.center {
+        padding: 0 2rem;
+    }
+
+    footer {
+        padding: 0 2rem;
+    }
 }
