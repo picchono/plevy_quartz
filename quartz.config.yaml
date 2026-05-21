@@ -106,6 +106,7 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
+    options: {}
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -227,7 +228,7 @@ plugins:
         position: afterBody
         priority: 10
   - source: github:quartz-community/footer
-    enabled: false
+    enabled: true
     options:
       links: '{"GitHub":"https://github.com/picchono"}'
   - source: github:quartz-community/recent-notes
@@ -268,18 +269,4 @@ layout:
       priority: 35
       direction: row
       gap: 0.5rem
-  byPageType:
-    "404": {}
-    content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}
+  byPageType: {}
