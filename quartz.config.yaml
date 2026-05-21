@@ -268,7 +268,9 @@ plugins:
       subdir: plugin
     enabled: true
     order: 50
-    options: {}
+    options:
+      theme: tokyo-night
+      mode: both
   - source: github:quartz-community/obsidian-plugin-leaflet
     enabled: true
     order: 50
